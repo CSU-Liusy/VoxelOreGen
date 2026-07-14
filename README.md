@@ -1,4 +1,4 @@
-# VoxelOreGen: Voxel Orebody Prior Generation and 3D GAN Augmentation Framework (Fully Audited README)
+# VoxelOreGen: Voxel Orebody Prior Generation and 3D GAN Augmentation Framework 
 
 ## Abstract
 This document is written based on actual directory inspection rather than assumptions. Its goal is to accurately describe the methodology, engineering structure, runtime entry points, and current artifact snapshot of VoxelOreGen. The project provides three core capabilities:
